@@ -1,0 +1,4 @@
+<Organismo>
+  <Base Tipo="Produtor" Jovem="600" Adulto="8000" Cor="13379328"></Base>
+  <Reproducao Frequencia="4000"></Reproducao>
+</Organismo>
